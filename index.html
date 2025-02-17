@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Projeto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de Projeto HTML</h1>
+        <form id="projectForm">
+            <label for="projectName">Nome do Projeto:</label>
+            <input type="text" id="projectName" name="projectName" required>
+            <button type="submit">Gerar Projeto</button>
+        </form>
+        <div id="output" class="hidden">
+            <h2>Projeto Gerado!</h2>
+            <button id="downloadButton">Baixar Projeto</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+</body>
+</html>
