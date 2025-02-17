@@ -1,6 +1,6 @@
 # QuickFrame 🚀
 
-**ProjectStarter** é uma ferramenta simples e eficiente para gerar a estrutura básica de projetos web com HTML, CSS e JavaScript. Basta inserir o nome do projeto, e ele cria automaticamente os arquivos necessários, prontos para download em um arquivo ZIP.
+**QuickFrame** é uma ferramenta simples e eficiente para gerar a estrutura básica de projetos web com HTML, CSS e JavaScript. Basta inserir o nome do projeto, e ele cria automaticamente os arquivos necessários, prontos para download em um arquivo ZIP.
 
 ---
 
