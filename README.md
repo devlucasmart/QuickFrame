@@ -6,8 +6,8 @@
 
 ## Recursos ✨
 
-- Gera a estrutura básica de um projeto web.
-- Cria automaticamente os arquivos `index.html`, `style.css` e `script.js`.
+- Gera a estrutura básico de um projeto web.
+- Cria automaticamente os arquivos `index.html`, `style.css` , `script.js` e o diretorio de imagens.
 - Compacta os arquivos em um ZIP para fácil download.
 - Interface simples e intuitiva.
 
@@ -15,22 +15,15 @@
 
 ## Como Usar 🛠️
 
-1. Abra o arquivo `index.html` no seu navegador.
-2. Insira o nome do projeto no campo de texto.
-3. Clique em **"Gerar Projeto"**.
-4. Clique em **"Baixar Projeto"** para fazer o download do arquivo ZIP.
-5. Extraia o ZIP e comece a desenvolver seu projeto!
+1. Insira o nome do projeto no campo de texto.
+2. Clique em **"Gerar Projeto"**.
+3. Extraia o ZIP e comece a desenvolver seu projeto!
 
 ---
 
 ## Estrutura do Projeto 📂
 
 O arquivo ZIP gerado contém a seguinte estrutura:
-nome-do-projeto/
-├── index.html
-├── style.css
-└── script.js
-
 
 - **index.html**: Estrutura básica do HTML.
 - **style.css**: Estilos CSS iniciais.
@@ -42,6 +35,7 @@ nome-do-projeto/
 
 - **HTML**: Para a estrutura da página.
 - **CSS**: Para estilização.
+- **Bootstrap**: Framework CSS para tornar o layout responsivo e estilizado..
 - **JavaScript**: Para a lógica de geração e download dos arquivos.
 - **JSZip**: Biblioteca para criar arquivos ZIP.
 - **FileSaver.js**: Biblioteca para salvar arquivos no computador do usuário.
@@ -52,7 +46,6 @@ nome-do-projeto/
 
 1. Insira o nome do projeto, por exemplo, `MeuProjeto`.
 2. Clique em **"Gerar Projeto"**.
-3. Clique em **"Baixar Projeto"** para baixar o arquivo `MeuProjeto.zip`.
-4. Extraia o ZIP e comece a editar os arquivos!
+3. Extraia o ZIP e comece a editar os arquivos!
 
 ---
